@@ -1,6 +1,9 @@
-# weekly_issues
-【极客阅读周刊 @每周五】发布最热门技术文章
+# 极客阅读周刊
+
+每周五发布，[极客阅读 App](https://www.yuque.com/docs/share/74c8695f-d2ce-4dbd-aee1-b92be37ecdf4) 每周热门文章。
 
 ---
 
-请在 [Issues](https://github.com/geeker-read/weekly_issues/issues) 里查看每期周刊。
+### 2019
+
+**十二月**：第 1 期
