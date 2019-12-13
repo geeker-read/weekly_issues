@@ -2,6 +2,8 @@
 
 每周五发布，[极客阅读 App](https://www.yuque.com/docs/share/74c8695f-d2ce-4dbd-aee1-b92be37ecdf4) 热门文章。
 
+同时同步到微信公众号(geeker-read)、[语雀](https://www.yuque.com/books/share/8cc684ae-4d87-483b-82e5-5128e32d4cef?#)和 [GitHub](https://github.com/geeker-read/weekly_issues)。
+
 ---
 
 ## 2019 年
