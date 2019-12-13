@@ -6,4 +6,4 @@
 
 ## 2019 年
 
-**十二月**：第 1 期
+**十二月**：[第 1 期](https://github.com/geeker-read/weekly_issues/blob/master/docs/issue-1.md) 🐸
