@@ -58,6 +58,8 @@
 
 > 这是每个人都可以用来了解前端开发实践的指南。 它广泛概述和讨论了前端工程的实践：如何学习它以及在 2019 年进行实践时使用了哪些工具。
 
+---
+
 本期周刊同时同步到微信公众号(geeker-read)、[语雀](https://www.yuque.com/books/share/8cc684ae-4d87-483b-82e5-5128e32d4cef?#)和 [GitHub](https://github.com/geeker-read/weekly_issues)。
 
 <img src="https://cdn.nlark.com/yuque/0/2019/png/639317/1576222303738-6abc107b-8e76-4433-b504-87a16df22f71.png" width="150" />
