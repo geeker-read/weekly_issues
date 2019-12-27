@@ -12,4 +12,4 @@
 
 ## 2019 年
 
-**十二月**：[第 1 期](https://github.com/geeker-read/weekly_issues/blob/master/docs/issue-1.md) | [第 2 期](https://github.com/geeker-read/weekly_issues/blob/master/docs/issue-2.md) 🐸
+**十二月**：[第 1 期](https://github.com/geeker-read/weekly_issues/blob/master/docs/issue-1.md) | [第 2 期](https://github.com/geeker-read/weekly_issues/blob/master/docs/issue-2.md) | [第 3 期](https://github.com/geeker-read/weekly_issues/blob/master/docs/issue-3.md) 🐸
