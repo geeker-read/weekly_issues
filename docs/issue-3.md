@@ -29,7 +29,7 @@
 >
 > 使用的 Git 版本：git version 2.24.0
 
-### [[视频] 基于 Apache APISIX 的下一代微服务架构](https://juejin.im/post/5dd36550e51d4561ce028828) By: 温铭
+### [[视频] 基于 Apache APISIX 的下一代微服务架构](https://www.upyun.com/opentalk/445.html) By: 温铭
 
 
 > **主题：**
