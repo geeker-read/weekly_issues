@@ -35,13 +35,6 @@
 > * 回顾微服务是怎么从单体变成现在的 Service Mesh
 > * 介绍 Service Mesh 是银弹吗，以及我眼里的下一代微服务架构
 
-### [深入理解 RocketMQ 消息查询机制](https://mp.weixin.qq.com/s?__biz=MzA5MDA5Njk0NQ==&mid=2456618949&idx=1&sn=b10afe7e39a894f4a2c43a4a3fc7bd9e&chksm=8789739bb0fefa8d718e6a0df8ab3fb517d61f65e2cee5f9690b36701117a1a31a854110a120&token=821287329&lang=zh_CN&utm_source=tuicool&utm_medium=referral) By: 田守枝的技术博客
-
-
-> 在实际开发中，经常需要查看 MQ 中消息的内容，RocketMQ 提供了多种消息查询方式，给开发和运维带来了极大的便利，一些其他消息中间件，如 Kafka，并不具备消息查询能力。
->
-> 本文对 RocketMQ 提供到的查询机制和背后原理进行深入的介绍。
-
 ### [Kafka 的这些原理你知道吗](https://segmentfault.com/a/1190000021370626) By: cxuan
 
 
