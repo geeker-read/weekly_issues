@@ -47,7 +47,7 @@
 >
 > 这种说法实际上混淆了中台与微服务的定义，要说清楚这个问题，就要先了解，什么是中台？什么是微服务？中台和微服务之间有什么样的关系？
 
-### [大型分布式系统中的缓存架构](https://samnewman.io/patterns/architectural/bff/) By: 陈彩华
+### [大型分布式系统中的缓存架构](https://mp.weixin.qq.com/s?__biz=MzAxNzU3NjcxOA==&mid=2650718133&idx=1&sn=a7b79f0ddab8e150fd205546afb3e022&chksm=83e979d4b49ef0c28435aa5f459c2d02bd001a193e20f2e6e1b1947dbd61f54a1177fedf97e6&scene=21#wechat_redirect) By: 陈彩华
 
 
 > 本文主要介绍大型分布式系统中缓存的相关理论，常见的缓存组件以及应用场景。
