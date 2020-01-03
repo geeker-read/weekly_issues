@@ -63,4 +63,4 @@
 
 本期周刊同时同步到微信公众号(geeker-read)、[语雀](https://www.yuque.com/books/share/8cc684ae-4d87-483b-82e5-5128e32d4cef?#)和 [GitHub](https://github.com/geeker-read/weekly_issues)。
 
-<img src="https://cdn.nlark.com/yuque/0/2020/png/639317/1578021752553-3e645754-7f8d-45e0-97cc-8ed1f580aade.png" />
+<img src="./wx.png" />
