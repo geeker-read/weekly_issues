@@ -1,6 +1,10 @@
 # 极客阅读周刊
 
-每周五发布，[极客阅读 App](https://www.yuque.com/docs/share/74c8695f-d2ce-4dbd-aee1-b92be37ecdf4) 热门文章。
+分享值得阅读的技术文章，每周五发布。
+
+「极客阅读 」汇聚了国内外最优质的技术博客、产品动态、公众号文章。开发者可以在极客阅读一站式的阅读到来自互联网技术大咖的文章。
+
+「极客阅读 」官网：[geeker-read.com](https://geeker-read.com)
 
 同时同步到`微信公众号(geeker-read)`、[语雀](https://www.yuque.com/books/share/8cc684ae-4d87-483b-82e5-5128e32d4cef?#)和 [GitHub](https://github.com/geeker-read/weekly_issues)。
 
