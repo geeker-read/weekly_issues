@@ -18,4 +18,4 @@
 
 同时同步到`微信公众号(geeker-read)`、[语雀](https://www.yuque.com/books/share/8cc684ae-4d87-483b-82e5-5128e32d4cef?#)和 [GitHub](https://github.com/geeker-read/weekly_issues)。
 
-<img src="./docs/wx.png" width="450">
+<img src="./docs/wx.png" width="380">
