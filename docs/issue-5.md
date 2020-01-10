@@ -33,9 +33,6 @@
 
 <img src="https://cdn.nlark.com/yuque/0/2020/png/639317/1578632140351-03a9dc11-9d63-460f-81d4-c0605253fe70.png?x-oss-process=image/resize,w_1492" width="500" />
 
-### [做容灾，冷备是不是个好方案？](https://mp.weixin.qq.com/s?__biz=MzI1MTMwMTQ1MA==&mid=2247484169&idx=1&sn=23eaa4146035f711146e9cdab6d6594b&chksm=e9f4582cde83d13a00698cdf865418b79f45165bd3b44505e608276d93504dceeb2123662adf&scene=21#wechat_redirect) By: 成哥的世界
-
-
 ### [[译] RESTful API 设计指南 - 最佳实践](https://mp.weixin.qq.com/s?__biz=MzI5NjcxNDM3Mg==&mid=2247483717&idx=1&sn=32b9d232953d4ee6bf6d4cfda581aaa0&chksm=ec4168aedb36e1b880e21e87508a82ad0fbacdbaef698ce808e7850956b1f411233c80718f27&token=402730331&lang=zh_CN#rd) By: 极客阅读
 
 
