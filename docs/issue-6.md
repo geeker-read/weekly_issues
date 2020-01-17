@@ -4,6 +4,12 @@
 
 「极客阅读周刊」分享值得阅读的技术文章，每周五发布。
 
+> 「极客阅读 」汇聚了国内外最优质的技术博客、产品动态、公众号文章。开发者可以在极客阅读一站式的阅读到来自互联网技术大咖的文章。
+> <br /><br />
+> <img width="400" src="https://cdn.nlark.com/yuque/0/2020/png/639317/1578021644053-627fd9fc-33fc-43dd-94bd-df2c1af39b10.png?x-oss-process=image/resize,w_1458" />
+> <br /><br />
+> **「极客阅读 」官网：[geeker-read.com](https://geeker-read.com)**
+
 ---
 
 <br /><br />
