@@ -85,17 +85,17 @@
 
 ![](https://imgkr.cn-bj.ufileos.com/db35d773-9724-42d1-8cec-45da696f867e.png)
 
-### [设计模式（英文）](https://sourcemaking.com/design_patterns)
-
 <br /><br />
+
+### [设计模式（英文）](https://sourcemaking.com/design_patterns)
 
 > 来自 SourceMaking 的 26 种设计模式。
 
 ![](https://imgkr.cn-bj.ufileos.com/de529a48-a23f-4b07-99d0-647403a3acc5.png)
 
-### [B 端产品设计体验-数据图表篇](https://www.zcool.com.cn/article/ZMTEwMzg0OA==.html)
-
 <br /><br />
+
+### [B 端产品设计体验-数据图表篇](https://www.zcool.com.cn/article/ZMTEwMzg0OA==.html)
 
 > 作者：Yuki_yee
 >
