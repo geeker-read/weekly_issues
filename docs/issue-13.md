@@ -21,6 +21,8 @@
 
 ![](https://imgkr.cn-bj.ufileos.com/ebfaa8d6-5885-4d8f-bfdd-035da3ec1adc.gif)
 
+<br /><br />
+
 ### [React Hooks 详解 【近 1W 字】+ 项目实战](https://juejin.im/post/5dbbdbd5f265da4d4b5fe57d)
 
 > React 一直都提倡使用函数组件，但是有时候需要使用 state 或者其他一些功能时，只能使用类组件，因为函数组件没有实例，没有生命周期函数，只有类组件才有。
@@ -29,6 +31,8 @@
 
 ![](https://imgkr.cn-bj.ufileos.com/74150880-7115-4677-9e7e-99193287c70e.png)
 
+<br /><br />
+
 ### [SQL 中的 NULL 你真的懂了吗？](https://blog.csdn.net/lnotime/article/details/104847946)
 
 > SQL 中的 NULL 到底是怎样一个概念呢？有什么要注意的吗？这篇文章就是要把它讲清楚。
@@ -36,6 +40,7 @@
 
 ![](https://imgkr.cn-bj.ufileos.com/260b915c-98ec-4fab-a365-a985f7f7a1bf.png)
 
+<br /><br />
 
 ### [今日头条架构师：头条 1.2 亿 + 日活的微服务和高可用架构实践！](https://mp.weixin.qq.com/s?__biz=MzA5MjE3NDQ1Mw==&mid=2649706931&idx=1&sn=54042178cc570dfcd75b95a229b4a241&chksm=886ad0a9bf1d59bfe3baa56c1a60188e163f9766437c501f6862bce70137180991ac9cc58538#rd)
 
@@ -43,12 +48,15 @@
 
 ![](https://imgkr.cn-bj.ufileos.com/5374f2b9-1853-4469-ae6b-96e045441030.png)
 
+<br /><br />
 
 ### [【推荐系统】智能推荐算法在直播场景中的应用](https://mp.weixin.qq.com/s?__biz=Mzg3OTAyMjcyMw==&mid=2247486019&idx=1&sn=e39f24a9c20432b8986dd5d49605c1c3&chksm=cf0b8daff87c04b9fc3aeccf9f20dc2d8d36baa9d83a18347794c63b36fb3339e787882c6150#rd)
 
 > 推荐系统是帮助用户发现内容，克服信息过载的重要工具；它通过分析用户行为，对用户兴趣建模。从而预测用户的兴趣并给用户做推荐；
 
 ![](https://imgkr.cn-bj.ufileos.com/81bd2e83-8163-4acb-a3d0-f205800a1d2d.png)
+
+<br /><br />
 
 ### [YouTube 深度学习推荐模型最全总结](https://www.infoq.cn/article/cNMhcg31lS26TjNURxF0)
 
@@ -64,12 +72,16 @@
 
 ![](https://imgkr.cn-bj.ufileos.com/54051fb8-e46f-4a4b-876a-fc07f5ac45c4.png)
 
+<br /><br />
+
 ### [蚂蚁金服分布式事务实践解析](https://mp.weixin.qq.com/s/Xh2jfZgD7Qallh_DAUbeVg)
 
 > 讲师：仁空，目前是蚂蚁金服分布式事务产品的研发。今天跟大家分享的是蚂蚁金服分布式事务实践解析，也就是分布式事务 Seata 在蚂蚁金服内部的实践。
 
 
 ![](https://imgkr.cn-bj.ufileos.com/f942ae04-6a1b-4be7-900d-641dd1a43491.png)
+
+<br /><br />
 
 ### [Java 14 新特性 (英文)](https://blogs.oracle.com/javamagazine/java-14-arrives-with-a-host-of-new-features)
 
@@ -78,12 +90,15 @@
 
 ![](https://imgkr.cn-bj.ufileos.com/b6cdea88-4b2c-42df-b306-afc4ef27491b.png)
 
+<br /><br />
+
 ### [分布式缓存的选择及问题](https://mp.weixin.qq.com/s/cONKlGQze1WzyC2yzbZ0RA)
 
 > 如今，缓存系统的应用非常广泛，能够用来提高并发数、数据吞吐量，提高快速响应能力。那么当数据量达到一定程度，单机环境可能就显得有些力不从心了，就需要一个分布式缓存系统。
 
 ![](https://imgkr.cn-bj.ufileos.com/24681e76-d0ce-4fb1-b1f0-d12382f384a8.png)
 
+<br /><br />
 
 ### [看懂 Serverless SSR，这一篇就够了！](https://mp.weixin.qq.com/s/czAIZyTyYvnhbK7nFMraqg)
 
@@ -91,6 +106,7 @@
 
 ![](https://imgkr.cn-bj.ufileos.com/94b2e954-5f98-4e94-9e71-a47f5fabec2f.png)
 
+<br /><br />
 
 ### [崇志 - 如何设计大型前端团队基建路线](https://juejin.im/post/5e644d2e6fb9a07ce01a37be)
 
@@ -98,11 +114,15 @@
 
 ![](https://imgkr.cn-bj.ufileos.com/e16f1e00-ebe6-435b-9671-b2761410021f.png)
 
+<br /><br />
+
 ### [高性能前端架构 (英文)](https://www.debugbear.com/blog/performant-front-end-architecture)
 
 > 这篇文章介绍了一些使前端应用程序加载更快并提供良好用户体验的技术。
 
 ![](https://imgkr.cn-bj.ufileos.com/a46da95b-5ff4-4e9d-a1fe-72de793a0612.png)
+
+<br /><br />
 
 ### [看完这篇 HTTP，跟面试官扯皮就没问题了](https://segmentfault.com/a/1190000021551892)
 
@@ -111,6 +131,8 @@
 
 ![](https://imgkr.cn-bj.ufileos.com/55a175de-52dd-428d-9163-6bbf55f80413.png)
 
+<br /><br />
+
 ### [NumPy 中文](https://www.numpy.org.cn/)
 
 > 这是 NumPy 官方的中文文档，NumPy 是用 Python 进行科学计算的基础软件包。
@@ -118,13 +140,15 @@
 
 ![](https://imgkr.cn-bj.ufileos.com/df6a85f5-0de5-4362-b190-79b67e5f66a5.png)
 
-
+<br /><br />
 
 ### [解构-版式设计中的“表与里” ](https://www.zcool.com.cn/article/ZMTExNjUwMA==.html)
 
 > 我们在设计的过程中往往会遇到这样的问题，明明时间投入很多却始终看不见画面效果，或者画面进行到一定程度画面效果不好却也还是深化不进去。很常见的做法就是开始无脑添加素材和增加一些特殊效果，从而让画面变得越来越乱。为了解决这样的问题，今天就给大家从设计的“表里”两部分解析如何理顺画面以及值得我们深化的方向有哪些。
 
 ![](https://imgkr.cn-bj.ufileos.com/70107892-0493-4062-ac88-7bccd9bf528e.png)
+
+<br /><br />
 
 ### [左耳朵耗子：技术人如何更好地把控发展趋势？](https://www.infoq.cn/article/DpZqcqOfcMpYWsiRCC3L)
 
@@ -133,6 +157,7 @@
 
 ![](https://imgkr.cn-bj.ufileos.com/291fddc3-0cc3-4a27-9929-52e3c9959266.png)
 
+<br /><br />
 
 ### [创业公司的 23 条规则（英文）](https://www.joisig.com/rules-software-startup-minimum-hassle)
 
@@ -140,12 +165,15 @@
 
 ![](https://imgkr.cn-bj.ufileos.com/57f6997c-307c-4917-b931-36738b9ecbaf.png)
 
+<br /><br />
+
 ### [5.38 亿微博用户信息泄露，暗网只售不到 1 万元](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247493547&idx=1&sn=554eafd367de895de2fd5a3a9f2719d8&chksm=e8d41869dfa3917f7b95d0d5f087c6f4d77cfb09125d3bb99f3536f47c5e7f68521c2551b65b#rd)
 
 > 暗网的数据出售和微博网友的爆料，让微博的数据泄露再次成为关注点。
 
 ![](https://imgkr.cn-bj.ufileos.com/144056b2-34d1-468e-86ff-8e8fb26f37cb.png)
 
+<br /><br />
 
 ### [招商证券：新零售研究之直播电商报告–直播电商三国杀](http://www.199it.com/archives/1023197.html)
 
