@@ -8,7 +8,10 @@
 
 ## 2020 年
 
-**七月**：[第 26 期](https://github.com/geeker-read/weekly_issues/blob/master/docs/issue-26.md) (2020-7-10) 🐸
+
+**八月**：[第 27 期](https://github.com/geeker-read/weekly_issues/blob/master/docs/issue-27.md) (2020-8-19) 🐸
+
+**七月**：[第 26 期](https://github.com/geeker-read/weekly_issues/blob/master/docs/issue-26.md) (2020-7-10)
 
 **六月**：[第 23 期](https://github.com/geeker-read/weekly_issues/blob/master/docs/issue-23.md) | [第 24 期](https://github.com/geeker-read/weekly_issues/blob/master/docs/issue-24.md) | [第 25 期](https://github.com/geeker-read/weekly_issues/blob/master/docs/issue-25.md)
 
