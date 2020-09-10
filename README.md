@@ -2,7 +2,7 @@
 
 分享值得阅读的技术文章，每周发布。
 
-**「极客阅读 」官网：** [geeker-read.com](https://geeker-read.com)
+**「极客阅读 」官网：** [jikeyuedu.cn](https://jikeyuedu.cn)
 
 ---
 
