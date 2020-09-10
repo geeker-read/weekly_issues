@@ -24,8 +24,6 @@
 
 ### [专栏 | 科普知识一箩筐](https://jikeyuedu.cn/series/5f52e5fab291fc78b4d03a37)
 
-<br /><br />
-
 > 用最通俗易通的方式科普各种计算机技术、原理，这里有短视频、文章等。
 
 ![](https://cdn.jsdelivr.net/gh/filess/images/2020/09/10/1599715170015-c8df3c86-7191-4441-9b42-229b9007cf2b.png)
