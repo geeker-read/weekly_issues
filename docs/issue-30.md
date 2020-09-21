@@ -10,7 +10,7 @@
 > <br /><br />
 > <img width="400" src="https://cdn.nlark.com/yuque/0/2020/png/639317/1578021644053-627fd9fc-33fc-43dd-94bd-df2c1af39b10.png?x-oss-process=image/resize,w_1458" />
 > <br /><br />
-> **「极客阅读 」官网：[geeker-read.com](https://geeker-read.com)**
+> **「极客阅读 」官网：[jikeyuedu.cn](https://jikeyuedu.cn)**
 
 <br />
 
